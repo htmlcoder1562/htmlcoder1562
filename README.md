@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @htmlcoder1562
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python, C, javascript, HTML, java (not good at all), and ruby.(jquery too!)
+- 🌱 I’m currently learning python, C, javascript, HTML, JS (jquery too!), java (not good at all), ruby, and I will soon learn PHP!
